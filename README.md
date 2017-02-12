@@ -3,6 +3,10 @@
 This repo provides recipes for performing specific tasks in ClojureScript 
 [rum](https://github.com/tonsky/rum).
 
+## Recipes
+
+* [File Uploader](recipes/file-upload/README.md)
+
 ## License
 
 Copyright (c) Antonis Kalou 2017.
