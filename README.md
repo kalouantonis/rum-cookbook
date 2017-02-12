@@ -6,6 +6,7 @@ This repo provides recipes for performing specific tasks in ClojureScript
 ## Recipes
 
 * [File Uploader](recipes/file-upload/README.md)
+* [Progress bar](recipes/progress-bar/README.md)
 
 ## License
 
